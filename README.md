@@ -3,10 +3,14 @@
 
 ## Usage
 
-YOUR_PHONE_NUMBER - 375296543210 \
-YOUR_ISSA_PASSWORD - #141\*0# \
-YOUR_EMAIL_ADDRESS - example@example.org \
-YOUR_MAILGUN_DOMAIN - sandbox\*\*\*\*\*.mailgun.org \
+YOUR_PHONE_NUMBER - 375296543210
+
+YOUR_ISSA_PASSWORD - #141\*0#
+
+YOUR_EMAIL_ADDRESS - example@example.org
+
+YOUR_MAILGUN_DOMAIN - sandbox\*\*\*\*\*.mailgun.org
+
 YOUR_MAILGUN_API_KEY = key-\*\*\*\*\* 
 
 Just run the image:
